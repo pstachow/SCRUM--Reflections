@@ -1,0 +1,2 @@
+Wymagania funkcjonalne opisuj¹ funkcjê, któr¹ system ma realizowaæ, na przyk³ad formatowanie tekstu lub modulowanie sygna³u. Czasami s¹ znane jako mo¿liwoœci.
+Wymagania pozafunkcjonalne specyfikuj¹ kryteria os¹dzania dzia³ania systemu. S¹ one znane jako wymagania jakoœciowe.
