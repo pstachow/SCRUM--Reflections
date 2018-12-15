@@ -1,0 +1,1 @@
+Pomimo, i¿ chcemy mieæ w zespole wszystkie potrzebne role, rozmiar zespo³u w Scrumie nie jest nieograniczony. Scrum Guide okreœla go jako przedzia³: od 3 do 9 osób. Logika stoj¹ca za tymi liczbami jest nastêpuj¹ca – zespó³ z mniej ni¿ trzema osobami mo¿e cierpieæ na brak kompetencji, wiêcej ni¿ 9 osób powoduje du¿y narzut komunikacyjny oraz zarz¹dczy.
